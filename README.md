@@ -39,6 +39,7 @@ The bot enhances the traditional registration workflow. When a staff member init
 
       * Edit the `config.js` file with your server's and bot's information.
 
+
     <!-- end list -->
 
     ```javascript
@@ -137,6 +138,7 @@ Bot, geleneksel kayıt iş akışını zenginleştirir. Bir yetkili kaydı başl
 3.  **Yapılandırma:**
 
       * `config.js` dosyasını sunucu ve bot bilgilerinize göre düzenleyin.
+
 
     <!-- end list -->
 

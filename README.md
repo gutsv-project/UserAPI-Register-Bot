@@ -30,6 +30,7 @@ The bot enhances the traditional registration workflow. When a staff member init
 
       * Open a terminal inside the unzipped project folder.
       * Run the command:
+
         ```sh
         npm install
         ```
@@ -127,6 +128,7 @@ Bot, geleneksel kayıt iş akışını zenginleştirir. Bir yetkili kaydı başl
 
       * Proje dosyalarını çıkardığınız klasörün içinde bir terminal açın.
       * Şu komutu çalıştırın:
+
         ```sh
         npm install
         ```

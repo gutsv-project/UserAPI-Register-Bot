@@ -66,9 +66,9 @@ The bot enhances the traditional registration workflow. When a staff member init
         baseURL: 'https://api.gutsv.xyz/api'
       },
 
-      // --- Loglama ---
+      // --- Log ---
       log: {
-        channel: 'LOG_KANAL_ID',
+        channel: 'CHANNEL_ID',
         showbio: true,
         showpronouns: true
       }
@@ -166,9 +166,9 @@ Bot, geleneksel kayıt iş akışını zenginleştirir. Bir yetkili kaydı başl
         baseURL: 'https://api.gutsv.xyz/api'
       },
 
-      // --- Loglama ---
+      // --- Log ---
       log: {
-        channel: 'LOG_KANAL_ID',
+        channel: 'CHANNEL_ID',
         showbio: true,
         showpronouns: true
       }

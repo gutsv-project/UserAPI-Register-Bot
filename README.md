@@ -42,6 +42,7 @@ The bot enhances the traditional registration workflow. When a staff member init
     <!-- end list -->
 
     ```javascript
+
     //  exp config.js
       // --- Basic Settings ---
       token: 'BOT_TOKEN',
@@ -140,6 +141,7 @@ Bot, geleneksel kayıt iş akışını zenginleştirir. Bir yetkili kaydı başl
     <!-- end list -->
 
     ```javascript
+
     //  exp config.js
       // --- Basic Settings ---
       token: 'BOT_TOKEN',

@@ -24,7 +24,7 @@ The bot enhances the traditional registration workflow. When a staff member init
 
 1.  **Download the Project:**
 
-      * Go to the [GitHub repository page](https://www.google.com/search?q=https://github.com/GutsV-Team/GutsV-Register-Bot).
+      * Go to the [GitHub repository page](https://github.com/gutsv-project/UserAPI-Register-Bot).
       * Click the green **`<> Code`** button and select **`Download ZIP`**.
       * Unzip the downloaded file into a folder.
 
@@ -124,7 +124,7 @@ Bot, geleneksel kayıt iş akışını zenginleştirir. Bir yetkili kaydı başl
 
 1.  **Projeyi İndirin:**
 
-      * [GitHub reposu sayfasına](https://www.google.com/search?q=https://github.com/GutsV-Team/GutsV-Register-Bot) gidin.
+      * [GitHub reposu sayfasına](https://github.com/gutsv-project/UserAPI-Register-Bot) gidin.
       * Yeşil renkli **`<> Code`** butonuna tıklayın ve **`Download ZIP`** seçeneğini seçin.
       * İndirilen `.zip` dosyasını bir klasöre çıkartın.
 

@@ -1,3 +1,5 @@
+***Coming Soon***
+
 ### **English**
 
 # GutsV | API-Powered Registration Bot

@@ -1,0 +1,24 @@
+{
+    "name": "gutsv-userapi-register-bot",
+    "version": "1.0.0",
+    "description": "GutsV Geliştirici ekibi tarafından yapılmıştır.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "GutsV",
+        "Project GutsV"
+    ],
+    "author": "GutsV Developer Team",
+    "license": "MIT",
+    "dependencies": {
+        "@discordjs/voice": "^0.18.0",
+        "child_process": "^1.0.2",
+        "discord.js": "^14.19.3",
+        "node-fetch": "^3.3.2",
+        "os": "^0.1.2",
+        "pino": "^8.17.2",
+        "pino-pretty": "^10.3.1"
+    }
+}

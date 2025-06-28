@@ -1,4 +1,4 @@
-***Coming Soon***
+***One day left***
 
 ### **English**
 
